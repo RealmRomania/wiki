@@ -23,6 +23,6 @@ title: "Titlu articol"
 parent: Sub-categorie
 grand_parent: Categorie
 permalink: /categorie/sub-categorie/nume-articol/
-tags: Sharky
+tags: Realm
 ---
 ```
